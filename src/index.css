@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes borderPulse {
+    0% {
+      border-width: 4px;
+    }
+    100% {
+      border-width: 5px;
+    }
+  }
+
+@layer components {
+    .asidebar {
+        @apply cursor-pointer border-t-[1px] border-solid py-[15px] pl-[20px]
+    }
+
+    .child-asidebar {
+        @apply flex gap-2 py-1
+    }
+
+    .head-nav {
+        @apply list-none p-4 text-[18px] text-stone-300
+    }
+    
+    .head-content {
+        @apply text-[#1D2833] text-[32px] font-betasemibold
+    }
+
+    .divide {
+        @apply box-border w-[70%] border my-[50px]  mx-auto border-[#666666] 
+    }
+
+    .each-slide-effect-div {
+        @apply flex items-end justify-center h-[400px] w-full
+    }
+
+    .each-slide-effect-span {
+        @apply p-5 text-[20px] bg-[#00000080] text-white text-center w-full
+    }
+    
+    .contact-i {
+        @apply p-2 mb-4 box-border border border-solid border-[#ced4da] rounded-[5px]
+    }
+
+    .all-factor {
+        @apply flex gap-1 items-center justify-center text-[18px] text-[#005586] mx-auto m-[25px] font-semibold
+    }
+
+    
+}
+
+@layer utilities {
+    .nav-desk{
+        @apply relative h-full flex text-center items-center justify-center text-white tracking-[1px] hover:text-[#34568B]
+    }
+
+    .nav-desk::after {
+        @apply content-[''] bg-darkorange h-[3px]  w-[0%] left-0 bottom-0 rounded-xl
+        absolute duration-300
+    }
+
+    .nav-desk:hover::after {
+        @apply  w-[100%]
+    }
+}

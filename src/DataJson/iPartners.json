@@ -1,0 +1,174 @@
+[
+    {
+      "id": 1, 
+      "img": "https://i.imgur.com/tK0PF9n.png", 
+      "colorBg": "#6ccae7",
+      "title": "Thương hiệu Ford",
+  
+      "linkContent": [
+        "http://ngaymoisaigon.com/7393-Ford-Vi%E1%BB%87t-Nam-Ra-M%E1%BA%AFt-D%E1%BB%B1-An-Chia-S%E1%BA%BB-Ki-Nang-So-C%E1%BB%A9u-Co-B%E1%BA%A3n",
+        "http://ngaymoisaigon.com/7361-Ford-Vi%E1%BB%87t-Nam-Trao-T%E1%BA%B7ng-D%E1%BB%99ng-Co-H%E1%BB%99p-S%E1%BB%91-Tich-C%E1%BB%B1c-Dong-Gop-Vao-Phat-Tri%E1%BB%83n-Giao-D%E1%BB%A5c-B%E1%BB%81n-V%E1%BB%AFng-T%E1%BA%A1i-Vi%E1%BB%87t-Nam",
+        "http://ngaymoisaigon.com/7285-Ford-Vi%E1%BB%87t-Nam-Gop-Ph%E1%BA%A7n-Thuc-D%E1%BA%A9y-M%E1%BB%91i-Quan-H%E1%BB%87-D%E1%BB%91i-Tac-Toan-Di%E1%BB%87n-Hoa-K%E1%BB%B3-Vi%E1%BB%87t-Nam"],   
+      "content": [
+        "Ra mắt dự án: 'Chia sẻ kĩ năng sơ cứu cơ bản.' ",
+        "Trao tặng động cơ, hộp số nhằm phát triển Giáo dục Việt Nam.",
+        "Thúc đẩy mối quan hệ đối tác toàn diện Hoa Kì - Việt Nam."] 
+    },
+
+    {
+      "id": 2, 
+      "img": "https://i.imgur.com/eD5Cfo6.gif", 
+      "colorBg": "#F3E0BE",
+      "title": "Cell Fushion C",
+      "linkContent": [
+        "http://ngaymoisaigon.com/1441-Cell-Fusion-C-ra-m%E1%BA%AFt-t%E1%BA%A1i-th%E1%BB%8B-tru%E1%BB%9Dng-Vi%E1%BB%87t-Nam",
+        "http://ngaymoisaigon.com/1720-K%E1%BA%BET-N%E1%BB%90I-KINH-DOANH-T%E1%BB%B1-Tin-T%E1%BB%8Fa-Sang-D%E1%BA%A1i-s%E1%BB%A9-Thuong-hi%E1%BB%87u/"
+      ],   
+      "content": [
+        "Ra mắt tại thị trường Việt Nam.",
+        "Kết nối kinh doanh đại sứ thương hiệu."]   
+    },
+
+    {
+      "id": 3, 
+      "img": "https://i.imgur.com/eVYmh3I.png", 
+      "colorBg": "#98B4D4",
+      "title": "Gốm sứ Cường Phát",
+      "linkContent": [
+        "http://ngaymoisaigon.com/1624-Ly-Ng%E1%BB%8Dc-B%E1%BA%A1ch-Giam-d%E1%BB%91c-Cong-ty-g%E1%BB%91m-s%E1%BB%A9-Cu%E1%BB%9Dng-Phat-lam-vi%E1%BB%87c-va-s%E1%BB%91ng-du%E1%BB%A3c-v%E1%BB%9Bi-ngh%E1%BB%81-la-ni%E1%BB%81m-h%E1%BA%A1nh-phuc",
+        "http://ngaymoisaigon.com/5930-K%E1%BA%BET-N%E1%BB%90I-KINH-DOANH-Doanh-nghi%E1%BB%87p-va-truy%E1%BB%81n-thong"],   
+      "content": [
+        "Thông điệp của Giám đốc Công ty gốm sứ Cường Phát - Lý Ngọc Bạch.",
+        "Kết nối kinh doanh - Doanh nghiệp và truyền thông."]   
+    },
+
+    {
+      "id": 4, 
+      "img": "https://i.imgur.com/dbosjau.png", 
+      "colorBg": "#98B4D4",
+      "title": "Gốm sứ Minh Long",
+      "linkContent": [
+        "http://ngaymoisaigon.com/78-Minh-Long-I-va-Saigontourist-ky-k%E1%BA%BFt-h%E1%BB%A3p-tac",
+        "http://ngaymoisaigon.com/52-L%E1%BB%85-Ra-M%E1%BA%AFt-%E1%BA%A4n-Ph%   E1%BA%A9m-Ngay-M%E1%BB%9Bi-Saigon"
+      ],   
+      "content": [
+        "Minh Long I và Saigontourist ký kết hợp tác.",
+        "Minh long tài trợ: 'Lễ ra mắt ấn phẩm Ngày Mới Saigon'."
+      ]   
+    },
+
+    {
+      "d": 5, 
+      "img": "https://i.imgur.com/aA1W6sJ.jpg", 
+      "colorBg": "#C0C0C0",
+      "title": "Đại học Văn Lang",
+      "linkContent": [
+        "http://ngaymoisaigon.com/7368-Khoa-CNTT-Tru%E1%BB%9Dng-D%E1%BA%A1i-H%E1%BB%8Dc-Van-Lang-chao-don-tan-sinh-vien-Khoa-K29",
+        "http://ngaymoisaigon.com/6921-Sinh-Vien-Khoa-CNTT-DH-Van-Lang-Co-Bai-Bao-Du%E1%BB%A3c-Xu%E1%BA%A5t-B%E1%BA%A3n-T%E1%BA%A1i-H%E1%BB%99i-Ngh%E1%BB%8B-Khoa-H%E1%BB%8Dc-Qu%E1%BB%91c-Gia-Va-Du%E1%BB%A3c-C%E1%BA%A5p-H%E1%BB%8Dc-B%E1%BB%95ng-Du-H%E1%BB%8Dc-Th%E1%BA%A1c-Si-Khoa-H%E1%BB%8Dc-D%E1%BB%AF-Li%E1%BB%87u-Va-AI-T%E1%BA%A1i-AIT"
+      ],   
+      "content": [
+        "Khoa CNTT - Trường Đại Học Văn Lang chào đón tân sinh viên Khóa K29",
+        "Sinh viên Văn Lang khoa CNTT có bài báo xuất bản tại hội nghị KHQG và cấp học bổng"
+      ] 
+    },
+
+    {
+      "id": 6, 
+      "img": "https://i.imgur.com/XtdsHOs.png", 
+      "colorBg": "#F3E0BE",
+      "title": "Trang phục Việt",
+      "linkContent": [
+        "http://ngaymoisaigon.com/5519-Nha-Thi%E1%BA%BFt-k%E1%BA%BF-Le-Si-Hoang-tham-gia-ban-giam-kh%E1%BA%A3o-cu%E1%BB%99c-thi-Miss-Heritage-International-2019",
+        "http://ngaymoisaigon.com/1720-K%E1%BA%BET-N%E1%BB%90I-KINH-DOANH-T%E1%BB%B1-Tin-T%E1%BB%8Fa-Sang-D%E1%BA%A1i-s%E1%BB%A9-Thuong-hi%E1%BB%87u/"
+      ],   
+      "content": [
+        "Ban giám khảo cuộc thi Hoa hậu Di sản Quốc tế 2019",
+        "Kết nối kinh doanh đại sứ thương hiệu."]   
+    },
+
+    {
+      "id": 7, 
+      "img": "https://i.imgur.com/eVYmh3I.png", 
+      "colorBg": "#98B4D4",
+      "title": "Gốm sứ Cường Phát",
+      "linkContent": [
+        "http://ngaymoisaigon.com/1624-Ly-Ng%E1%BB%8Dc-B%E1%BA%A1ch-Giam-d%E1%BB%91c-Cong-ty-g%E1%BB%91m-s%E1%BB%A9-Cu%E1%BB%9Dng-Phat-lam-vi%E1%BB%87c-va-s%E1%BB%91ng-du%E1%BB%A3c-v%E1%BB%9Bi-ngh%E1%BB%81-la-ni%E1%BB%81m-h%E1%BA%A1nh-phuc",
+        "http://ngaymoisaigon.com/5930-K%E1%BA%BET-N%E1%BB%90I-KINH-DOANH-Doanh-nghi%E1%BB%87p-va-truy%E1%BB%81n-thong"],   
+      "content": [
+        "Thông điệp của Giám đốc Công ty gốm sứ Cường Phát - Lý Ngọc Bạch.",
+        "Kết nối kinh doanh - Doanh nghiệp và truyền thông."]   
+    },
+
+    {
+      "id": 8, 
+      "img": "https://i.imgur.com/dbosjau.png", 
+      "colorBg": "#98B4D4",
+      "title": "Gốm sứ Minh Long",
+      "linkContent": [
+        "http://ngaymoisaigon.com/78-Minh-Long-I-va-Saigontourist-ky-k%E1%BA%BFt-h%E1%BB%A3p-tac",
+        "http://ngaymoisaigon.com/52-L%E1%BB%85-Ra-M%E1%BA%AFt-%E1%BA%A4n-Ph%E1%BA%A9m-Ngay-M%E1%BB%9Bi-Saigon"
+      ],   
+      "content": [
+        "Minh Long I và Saigontourist ký kết hợp tác.",
+        "Minh long tài trợ: 'Lễ ra mắt ấn phẩm Ngày Mới Saigon'."
+      ]   
+    },
+
+    {
+      "id": 9, 
+      "img": "https://i.imgur.com/eVYmh3I.png", 
+      "colorBg": "#98B4D4",
+      "title": "Gốm sứ Cường Phát",
+      "linkContent": [
+        "http://ngaymoisaigon.com/1624-Ly-Ng%E1%BB%8Dc-B%E1%BA%A1ch-Giam-d%E1%BB%91c-Cong-ty-g%E1%BB%91m-s%E1%BB%A9-Cu%E1%BB%9Dng-Phat-lam-vi%E1%BB%87c-va-s%E1%BB%91ng-du%E1%BB%A3c-v%E1%BB%9Bi-ngh%E1%BB%81-la-ni%E1%BB%81m-h%E1%BA%A1nh-phuc",
+        "http://ngaymoisaigon.com/5930-K%E1%BA%BET-N%E1%BB%90I-KINH-DOANH-Doanh-nghi%E1%BB%87p-va-truy%E1%BB%81n-thong"],   
+      "content": [
+        "Thông điệp của Giám đốc Công ty gốm sứ Cường Phát - Lý Ngọc Bạch.",
+        "Kết nối kinh doanh - Doanh nghiệp và truyền thông."]   
+    },
+
+    {
+      "id": 10, 
+      "img": "https://i.imgur.com/dbosjau.png", 
+      "colorBg": "#98B4D4",
+      "title": "Gốm sứ Minh Long",
+      "linkContent": [
+        "http://ngaymoisaigon.com/78-Minh-Long-I-va-Saigontourist-ky-k%E1%BA%BFt-h%E1%BB%A3p-tac",
+        "http://ngaymoisaigon.com/52-L%E1%BB%85-Ra-M%E1%BA%AFt-%E1%BA%A4n-Ph%E1%BA%A9m-Ngay-M%E1%BB%9Bi-Saigon"
+      ],   
+      "content": [
+        "Minh Long I và Saigontourist ký kết hợp tác.",
+        "Minh long tài trợ: 'Lễ ra mắt ấn phẩm Ngày Mới Saigon'."
+      ]   
+    },
+
+    {
+      "id": 11, 
+      "img": "https://i.imgur.com/aA1W6sJ.jpg", 
+      "colorBg": "#C0C0C0",
+      "title": "Đại học Văn Lang",
+      "linkContent": [
+        "http://ngaymoisaigon.com/7368-Khoa-CNTT-Tru%E1%BB%9Dng-D%E1%BA%A1i-H%E1%BB%8Dc-Van-Lang-chao-don-tan-sinh-vien-Khoa-K29",
+        "http://ngaymoisaigon.com/6921-Sinh-Vien-Khoa-CNTT-DH-Van-Lang-Co-Bai-Bao-Du%E1%BB%A3c-Xu%E1%BA%A5t-B%E1%BA%A3n-T%E1%BA%A1i-H%E1%BB%99i-Ngh%E1%BB%8B-Khoa-H%E1%BB%8Dc-Qu%E1%BB%91c-Gia-Va-Du%E1%BB%A3c-C%E1%BA%A5p-H%E1%BB%8Dc-B%E1%BB%95ng-Du-H%E1%BB%8Dc-Th%E1%BA%A1c-Si-Khoa-H%E1%BB%8Dc-D%E1%BB%AF-Li%E1%BB%87u-Va-AI-T%E1%BA%A1i-AIT"
+      ],   
+      "content": [
+        "Khoa CNTT - Trường Đại Học Văn Lang chào đón tân sinh viên Khóa K29",
+        "Sinh viên Văn Lang khoa CNTT có bài báo xuất bản tại hội nghị KHQG và cấp học bổng"
+      ] 
+    },
+
+    {
+      "id": 12, 
+      "img": "https://i.imgur.com/XtdsHOs.png", 
+      "colorBg": "#F3E0BE",
+      "title": "Trang phục Việt",
+      "linkContent": [
+        "http://ngaymoisaigon.com/5519-Nha-Thi%E1%BA%BFt-k%E1%BA%BF-Le-Si-Hoang-tham-gia-ban-giam-kh%E1%BA%A3o-cu%E1%BB%99c-thi-Miss-Heritage-International-2019",
+        "http://ngaymoisaigon.com/1720-K%E1%BA%BET-N%E1%BB%90I-KINH-DOANH-T%E1%BB%B1-Tin-T%E1%BB%8Fa-Sang-D%E1%BA%A1i-s%E1%BB%A9-Thuong-hi%E1%BB%87u/"
+      ],   
+      "content": [
+        "Ban giám khảo cuộc thi Hoa hậu Di sản Quốc tế 2019",
+        "Kết nối kinh doanh đại sứ thương hiệu."]   
+    }
+   
+]
